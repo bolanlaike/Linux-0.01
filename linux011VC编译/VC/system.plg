@@ -1,0 +1,435 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: system - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA1.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/write.o" /Fd".\Release\lib/" /FD /c ..\lib\write.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA1.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA2.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/wait.o" /Fd".\Release\lib/" /FD /c ..\lib\wait.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA2.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA3.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/string.o" /Fd".\Release\lib/" /FD /c ..\lib\string.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA3.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA4.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/setsid.o" /Fd".\Release\lib/" /FD /c ..\lib\setsid.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA4.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA5.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/malloc.o" /Fd".\Release\lib/" /FD /c ..\lib\malloc.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA5.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA6.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/execve.o" /Fd".\Release\lib/" /FD /c ..\lib\execve.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA6.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA7.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/errno.o" /Fd".\Release\lib/" /FD /c ..\lib\errno.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA7.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA8.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/dup.o" /Fd".\Release\lib/" /FD /c ..\lib\dup.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA8.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA9.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/ctype.o" /Fd".\Release\lib/" /FD /c ..\lib\ctype.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPA9.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAA.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/close.o" /Fd".\Release\lib/" /FD /c ..\lib\close.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAA.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAB.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\lib/" /Fp"Release/system.pch" /YX /Fo".\Release\lib/_exit.o" /Fd".\Release\lib/" /FD /c ..\lib\_exit.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAB.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAC.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/truncate.o" /Fd".\Release\fs/" /FD /c ..\fs\truncate.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAC.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAD.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/stat.o" /Fd".\Release\fs/" /FD /c ..\fs\stat.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAD.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAE.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/read_write.o" /Fd".\Release\fs/" /FD /c ..\fs\read_write.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAE.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAF.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/pipe.o" /Fd".\Release\fs/" /FD /c ..\fs\pipe.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPAF.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB0.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/open.o" /Fd".\Release\fs/" /FD /c ..\fs\open.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB0.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB1.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/namei.o" /Fd".\Release\fs/" /FD /c ..\fs\namei.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB1.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB2.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/ioctl.o" /Fd".\Release\fs/" /FD /c ..\fs\ioctl.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB2.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB3.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/inode.o" /Fd".\Release\fs/" /FD /c ..\fs\inode.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB3.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB4.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/file_table.o" /Fd".\Release\fs/" /FD /c ..\fs\file_table.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB4.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB5.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/file_dev.o" /Fd".\Release\fs/" /FD /c ..\fs\file_dev.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB5.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB6.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/fcntl.o" /Fd".\Release\fs/" /FD /c ..\fs\fcntl.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB6.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB7.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/char_dev.o" /Fd".\Release\fs/" /FD /c ..\fs\char_dev.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB7.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB8.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/buffer.o" /Fd".\Release\fs/" /FD /c ..\fs\buffer.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB8.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB9.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\fs/" /Fp"Release/system.pch" /YX /Fo".\Release\fs/block_dev.o" /Fd".\Release\fs/" /FD /c ..\fs\block_dev.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPB9.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBA.bat" with contents
+[
+@echo off
+bin\ml.exe -c -coff -nologo -Cp /X /Fo ".\Release\mm\page.o" ..\mm\page.s
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBA.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBB.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel/vsprintf.o" /Fd".\Release\kernel/" /FD /c ..\kernel\vsprintf.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBB.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBC.bat" with contents
+[
+@echo off
+bin\ml.exe -c -coff -nologo -Cp /X /Fo ".\Release\kernel\system_call.o" ..\kernel\system_call.s
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBC.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBD.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel/sys.o" /Fd".\Release\kernel/" /FD /c ..\kernel\sys.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBD.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBE.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel/signal.o" /Fd".\Release\kernel/" /FD /c ..\kernel\signal.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBE.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBF.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel/sched.o" /Fd".\Release\kernel/" /FD /c ..\kernel\sched.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPBF.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC0.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel/printk.o" /Fd".\Release\kernel/" /FD /c ..\kernel\printk.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC0.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC1.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel/panic.o" /Fd".\Release\kernel/" /FD /c ..\kernel\panic.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC1.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC2.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel/mktime.o" /Fd".\Release\kernel/" /FD /c ..\kernel\mktime.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC2.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC3.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel/fork.o" /Fd".\Release\kernel/" /FD /c ..\kernel\fork.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC3.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC4.bat" with contents
+[
+@echo off
+bin\ml.exe -c -coff -nologo -Cp /X /Fo ".\Release\kernel\asm.o" ..\kernel\asm.s
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC4.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC5.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\chr_drv/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\chr_drv/tty_ioctl.o" /Fd".\Release\kernel\chr_drv/" /FD /c ..\kernel\chr_drv\tty_ioctl.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC5.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC6.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\chr_drv/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\chr_drv/tty_io.o" /Fd".\Release\kernel\chr_drv/" /FD /c ..\kernel\chr_drv\tty_io.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC6.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC7.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\chr_drv/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\chr_drv/serial.o" /Fd".\Release\kernel\chr_drv/" /FD /c ..\kernel\chr_drv\serial.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC7.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC8.bat" with contents
+[
+@echo off
+bin\ml.exe -c -coff -nologo -Cp /X /Fo ".\Release\kernel\chr_drv\rs_io.o" ..\kernel\chr_drv\rs_io.s
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC8.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC9.bat" with contents
+[
+@echo off
+cl /X /I "..\include" /EP /P ..\kernel\chr_drv\keyboard.S
+bin\ml.exe -c -coff -nologo -Cp /X /Fo ".\Release\kernel\chr_drv\keyboard.o" .\keyboard.i
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPC9.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCA.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\chr_drv/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\chr_drv/console.o" /Fd".\Release\kernel\chr_drv/" /FD /c ..\kernel\chr_drv\console.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCA.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCB.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\blk_drv/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\blk_drv/ramdisk.o" /Fd".\Release\kernel\blk_drv/" /FD /c ..\kernel\blk_drv\ramdisk.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCB.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCC.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\blk_drv/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\blk_drv/ll_rw_blk.o" /Fd".\Release\kernel\blk_drv/" /FD /c ..\kernel\blk_drv\ll_rw_blk.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCC.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCD.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\blk_drv/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\blk_drv/hd.o" /Fd".\Release\kernel\blk_drv/" /FD /c ..\kernel\blk_drv\hd.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCD.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCE.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\blk_drv/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\blk_drv/floppy.o" /Fd".\Release\kernel\blk_drv/" /FD /c ..\kernel\blk_drv\floppy.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCE.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCF.bat" with contents
+[
+@echo off
+cl /nologo  /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\kernel\math/" /Fp"Release/system.pch" /YX /Fo".\Release\kernel\math/math_emulate.o" /Fd".\Release\kernel\math/" /FD /c ..\kernel\math\math_emulate.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPCF.bat"
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPD0.bat" with contents
+[
+@echo off
+cl /nologo /W3 /vd0 /GX- /Ob1 /Ot /Oa /Og /Op /X /I "..\include" /u /FAs /Fa".\Release\init/" /Fp"Release/system.pch" /YX /Fo".\Release\init/main.o" /Fd".\Release\init/" /FD /c ..\init\main.c
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPD0.bat"
+<h3>Output Window</h3>
+Performing Custom Build Step on ..\lib\write.c
+write.c
+Performing Custom Build Step on ..\lib\wait.c
+wait.c
+Performing Custom Build Step on ..\lib\string.c
+string.c
+Performing Custom Build Step on ..\lib\setsid.c
+setsid.c
+Performing Custom Build Step on ..\lib\malloc.c
+malloc.c
+..\lib\malloc.c(123) : warning C4018: '>=' : signed/unsigned mismatch
+Performing Custom Build Step on ..\lib\execve.c
+execve.c
+Performing Custom Build Step on ..\lib\errno.c
+errno.c
+Performing Custom Build Step on ..\lib\dup.c
+dup.c
+Performing Custom Build Step on ..\lib\ctype.c
+ctype.c
+Performing Custom Build Step on ..\lib\close.c
+close.c
+Performing Custom Build Step on ..\lib\_exit.c
+_exit.c
+Performing Custom Build Step on ..\fs\truncate.c
+truncate.c
+Performing Custom Build Step on ..\fs\stat.c
+stat.c
+Performing Custom Build Step on ..\fs\read_write.c
+read_write.c
+..\fs\read_write.c(113) : warning C4018: '>' : signed/unsigned mismatch
+Performing Custom Build Step on ..\fs\pipe.c
+pipe.c
+Performing Custom Build Step on ..\fs\open.c
+open.c
+Performing Custom Build Step on ..\fs\namei.c
+namei.c
+Performing Custom Build Step on ..\fs\ioctl.c
+ioctl.c
+Performing Custom Build Step on ..\fs\inode.c
+inode.c
+Performing Custom Build Step on ..\fs\file_table.c
+file_table.c
+Performing Custom Build Step on ..\fs\file_dev.c
+file_dev.c
+..\fs\file_dev.c(106) : warning C4018: '>' : signed/unsigned mismatch
+Performing Custom Build Step on ..\fs\fcntl.c
+fcntl.c
+Performing Custom Build Step on ..\fs\char_dev.c
+char_dev.c
+Performing Custom Build Step on ..\fs\buffer.c
+buffer.c
+..\fs\buffer.c(194) : warning C4018: '==' : signed/unsigned mismatch
+..\fs\buffer.c(217) : warning C4018: '==' : signed/unsigned mismatch
+Performing Custom Build Step on ..\fs\block_dev.c
+block_dev.c
+Performing Custom Build Step on ..\mm\page.s
+ Assembling: ..\mm\page.s
+Performing Custom Build Step on ..\kernel\vsprintf.c
+vsprintf.c
+Performing Custom Build Step on ..\kernel\system_call.s
+ Assembling: ..\kernel\system_call.s
+Performing Custom Build Step on ..\kernel\sys.c
+sys.c
+Performing Custom Build Step on ..\kernel\signal.c
+signal.c
+Performing Custom Build Step on ..\kernel\sched.c
+sched.c
+Performing Custom Build Step on ..\kernel\printk.c
+printk.c
+Performing Custom Build Step on ..\kernel\panic.c
+panic.c
+Performing Custom Build Step on ..\kernel\mktime.c
+mktime.c
+Performing Custom Build Step on ..\kernel\fork.c
+fork.c
+Performing Custom Build Step on ..\kernel\asm.s
+ Assembling: ..\kernel\asm.s
+Performing Custom Build Step on ..\kernel\chr_drv\tty_ioctl.c
+tty_ioctl.c
+..\kernel\chr_drv\tty_ioctl.c(37) : warning C4244: '=' : conversion from 'unsigned long ' to 'unsigned short ', possible loss of data
+..\kernel\chr_drv\tty_ioctl.c(121) : warning C4244: '=' : conversion from 'unsigned long ' to 'unsigned short ', possible loss of data
+..\kernel\chr_drv\tty_ioctl.c(122) : warning C4244: '=' : conversion from 'unsigned long ' to 'unsigned short ', possible loss of data
+..\kernel\chr_drv\tty_ioctl.c(123) : warning C4244: '=' : conversion from 'unsigned long ' to 'unsigned short ', possible loss of data
+..\kernel\chr_drv\tty_ioctl.c(124) : warning C4244: '=' : conversion from 'unsigned long ' to 'unsigned short ', possible loss of data
+Performing Custom Build Step on ..\kernel\chr_drv\tty_io.c
+tty_io.c
+Performing Custom Build Step on ..\kernel\chr_drv\serial.c
+serial.c
+Performing Custom Build Step on ..\kernel\chr_drv\rs_io.s
+ Assembling: ..\kernel\chr_drv\rs_io.s
+Performing Custom Build Step on ..\kernel\chr_drv\keyboard.S
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+keyboard.S
+ Assembling: .\keyboard.i
+Performing Custom Build Step on ..\kernel\chr_drv\console.c
+console.c
+Performing Custom Build Step on ..\kernel\blk_drv\ramdisk.c
+ramdisk.c
+Performing Custom Build Step on ..\kernel\blk_drv\ll_rw_blk.c
+ll_rw_blk.c
+Performing Custom Build Step on ..\kernel\blk_drv\hd.c
+hd.c
+..\kernel\blk_drv\hd.c(277) : warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+..\kernel\blk_drv\hd.c(394) : warning C4018: '>=' : signed/unsigned mismatch
+..\kernel\blk_drv\hd.c(394) : warning C4018: '>' : signed/unsigned mismatch
+Performing Custom Build Step on ..\kernel\blk_drv\floppy.c
+floppy.c
+..\kernel\blk_drv\floppy.c(505) : warning C4761: integral size mismatch in argument; conversion supplied
+..\kernel\blk_drv\floppy.c(519) : warning C4761: integral size mismatch in argument; conversion supplied
+..\kernel\blk_drv\floppy.c(428) : warning C4761: integral size mismatch in argument; conversion supplied
+..\kernel\blk_drv\floppy.c(453) : warning C4761: integral size mismatch in argument; conversion supplied
+..\kernel\blk_drv\floppy.c(459) : warning C4761: integral size mismatch in argument; conversion supplied
+..\kernel\blk_drv\floppy.c(374) : warning C4761: integral size mismatch in argument; conversion supplied
+..\kernel\blk_drv\floppy.c(379) : warning C4761: integral size mismatch in argument; conversion supplied
+..\kernel\blk_drv\floppy.c(374) : warning C4761: integral size mismatch in argument; conversion supplied
+..\kernel\blk_drv\floppy.c(379) : warning C4761: integral size mismatch in argument; conversion supplied
+Performing Custom Build Step on ..\kernel\math\math_emulate.c
+math_emulate.c
+Performing Custom Build Step on ..\init\main.c
+main.c
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPD1.bat" with contents
+[
+@echo off
+bin\ld -T .\bin\ld_script.txt -s -x --file-alignment=1 --section-alignment=1 -Ttext=0 --image-base=0 -nostdlib -Map=.\release\system.map -o .\release\system   ".\Release\boot\head.o" ".\Release\init\main.o"  ".\Release\kernel\exit.o"  ".\Release\kernel\fork.o"  ".\Release\kernel\math\math_emulate.o"  ".\Release\kernel\mktime.o"  ".\Release\kernel\panic.o"  ".\Release\kernel\printk.o" ".\Release\kernel\sched.o"   ".\Release\kernel\signal.o" ".\Release\kernel\sys.o"  ".\Release\kernel\system_call.o"  ".\Release\kernel\traps.o"  ".\Release\kernel\vsprintf.o" ".\Release\kernel\asm.o"   ".\Release\kernel\blk_drv\floppy.o" ".\Release\kernel\blk_drv\hd.o"   ".\Release\kernel\blk_drv\ll_rw_blk.o" ".\Release\kernel\blk_drv\ramdisk.o"   ".\Release\kernel\chr_drv\console.o" ".\Release\kernel\chr_drv\keyboard.o"   ".\Release\kernel\chr_drv\rs_io.o" ".\Release\kernel\chr_drv\serial.o"   ".\Release\kernel\chr_drv\tty_io.o" ".\Release\kernel\chr_drv\tty_ioctl.o"   ".\Release\mm\memory.o" ".\Release\mm\page.o" ".\Release\fs\bitmap.o"   ".\Release\fs\block_dev.o" ".\Release\fs\buffer.o" ".\Release\fs\char_dev.o"   ".\Release\fs\exec.o"  ".\Release\fs\fcntl.o"        ".\Release\fs\file_dev.o"  ".\Release\fs\file_table.o"   ".\Release\fs\inode.o" ".\Release\fs\ioctl.o"   ".\Release\fs\namei.o" ".\Release\fs\open.o" ".\Release\fs\pipe.o"   ".\Release\fs\read_write.o" ".\Release\fs\stat.o" ".\Release\fs\super.o"  ".\Release\fs\truncate.o" ".\Release\lib\_exit.o" ".\Release\lib\close.o"  ".\Release\lib\ctype.o" ".\Release\lib\dup.o" ".\Release\lib\errno.o"  ".\Release\lib\execve.o" ".\Release\lib\malloc.o" ".\Release\lib\open.o"  ".\Release\lib\setsid.o" ".\Release\lib\string.o" ".\Release\lib\wait.o"  ".\Release\lib\write.o"
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSPD1.bat"
+
+
+
+
+<h3>Results</h3>
+system - 0 error(s), 22 warning(s)
+</pre>
+</body>
+</html>

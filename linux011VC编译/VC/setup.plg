@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: setup - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSP3CF.bat" with contents
+[
+@echo off
+bin\ml.exe /Cp /c /nologo /X /coff /Fo ".\Release\boot\setup" ..\boot\setup.s
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSP3CF.bat"
+<h3>Output Window</h3>
+Performing Custom Build Step on ..\boot\setup.s
+ Assembling: ..\boot\setup.s
+Creating temporary file "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSP3D0.bat" with contents
+[
+@echo off
+link.exe /VXD /NOLOGO /NOENTRY /NODEFAULTLIB /OUT:.\Release\setup .\Release\boot\setup.obj
+]
+Creating command line "C:\DOCUME~1\hyy\LOCALS~1\Temp\RSP3D0.bat"
+
+
+
+
+<h3>Results</h3>
+setup - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
